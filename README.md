@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 - inst: @rbaymanova
 - email: rbaymanova@gmail.com (personal)
-         r.baymanova@newuu.uz (university email)
+  r.baymanova@newuu.uz (university email)
 
 <!---
 rbaymanova/rbaymanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
