@@ -1,10 +1,9 @@
  - 👋 Hi, I’m @rbaymanova
 - 👀 I’m interested in robotics, pc gaming and languages!
-- 🌱 I’m currently learning mainly C++
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on the future assignments<3
 - 📫 How to reach me:
 - inst: @rbaymanova
-- telegram: @rbaymanova
 - email: rbaymanova@gmail.com (personal)
          r.baymanova@newuu.uz (university email)
 
