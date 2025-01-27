@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and Java
 - 💞️ I’m looking to collaborate on the future assignments<3
 - 📫 How to reach me:
-- email: rbaymanova@gmail.com
+ email: rbaymanova@gmail.com
   
 <!---
 rbaymanova/rbaymanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
