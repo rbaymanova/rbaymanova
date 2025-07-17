@@ -1,8 +1,7 @@
- - 👋 Hi, I’m @rbaymanova
-- 👀 I’m interested in robotics, pc gaming and languages!
+ - 👋 Hi, I’m Ruxshona!
+- 👀 I’m interested in robotics, video games and languages!
 - 🌱 I’m currently learning C++ and Java
 - 💞️ I’m looking to collaborate on the future assignments<3
-- 📫 How to reach me: rbaymanova@gmail.com
   
 <!---
 rbaymanova/rbaymanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
